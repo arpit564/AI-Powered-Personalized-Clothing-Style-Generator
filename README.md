@@ -50,8 +50,7 @@
 
 </div>
 
-> 💡 **Tip:** Replace the above image URLs with actual screenshots of your app for best results.  
-> Recommended tool: [Screely](https://screely.com) for beautiful browser mockup screenshots.
+
 
 ---
 
